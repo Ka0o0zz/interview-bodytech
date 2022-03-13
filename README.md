@@ -25,4 +25,4 @@ You will also see any lint errors in the console.
 
 ### Set environment variables
 
-we have 3 environment variables, which you have to set with your spotify credentials
+you can replace the spotify credentials with your own
